@@ -4,8 +4,6 @@ import (
 	"fmt"
 	"strings"
 )
-
-
 func main(){
 	firstName := "Aman"
 	lastName := "Kar"
